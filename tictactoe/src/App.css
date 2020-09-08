@@ -52,9 +52,12 @@
  /* Game Info */
 ul {
   padding-left: 30px;
+
  }
  .game-info {
-  margin-left: 20px;
+  margin-left: 40pt;
+  font-family: system-ui;
+  font-size: x-large;
  }
  .status {
   margin-bottom: 10px;
